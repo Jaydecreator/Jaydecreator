@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jaydecreator
-- 👀 I’m interested in ...Front End Developing
-- 🌱 I’m currently learning ... php java django react
-- 💞️ I’m looking to collaborate on ... build more reactive websites
+- 👋 Hi, I’m Njabulo Jay
+- 👀 Front-end developer, Javascript, tailwindcss, Java, React, SQL
+- 🌱 I’m currently learning ... php django kotlin
+- 💞️ I’m looking to collaborate on ... build more reactive apps
 - 📫 How to reach me ... ndlovumoney17@gmail.com
 
 <!---
